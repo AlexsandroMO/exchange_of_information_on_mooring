@@ -32,11 +32,12 @@ Gravação de audio e video do processo
 
 
 
-Vento - velocidade em m/s e knots (nós), e direção em graus;
- Temperatura em oC;
- Umidade relativa do ar em %;
- Pressão atmosférica - em mbar; e
- Velocidade (em m/s) e direção (em graus) de corrente marítima.
+- Vento (velocidade em m/s e knots (nós), e direção em graus);
+- Temperatura em oC;
+- Umidade relativa do ar em %;
+- Pressão atmosférica - em mbar;
+- Velocidade (em m/s) e direção (em graus) de corrente marítima;
+- Detector de óleo
 
 
 #=========================================================================
