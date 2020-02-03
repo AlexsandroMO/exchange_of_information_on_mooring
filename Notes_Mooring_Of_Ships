@@ -37,3 +37,41 @@ Vento - velocidade em m/s e knots (nós), e direção em graus;
  Umidade relativa do ar em %;
  Pressão atmosférica - em mbar; e
  Velocidade (em m/s) e direção (em graus) de corrente marítima.
+
+
+#=========================================================================
+
+#-------------------------------------------------------
+Sensor de Velocidade de Ventos
+https://www.nanmac.com/?gclid=EAIaIQobChMIm8Wjip-15wIVDBCRCh1JwQn4EAAYAyAAEgIJfvD_BwE
+
+ONWA
+Descrição
+Sensor ultrassônico para estações meteorológicas ou sistemas de navegação com medição de velocidade e direção do vento, temperatura, umidade, pressão do ar e altitude – Onwa Marine KW-360
+
+
+KW-360 é um poderoso sensor ultrassônico, leve, de fácil instalação e fixação, capaz de realizar a medição da velocidade e direção do vento, temperatura, umidade, pressão do ar e altitude.
+
+Sua instalação é simples e pode ser integrado a diferentes sistemas de monitoramentos, pois tem saída de dados padrão RS485 ou RS232.
+
+Desenvolvido para sistemas marítimos, além de extremamente robusto, é totalmente compatível com sistemas Nmea0183, podendo ser integrado diretamente à navegadores GPS, chartplotter, ECDIS, AIS, softwares de monitoramento ou navegação, entre outros.
+
+Versatilidade na instalação, podendo ficar até 1km distante do receptor de dados, em comprimento de cabo, desde que utilizando a porta de comunicação RS485. Quando utilizando a porta de comunicação RS232 o cabo de ligação deve ter um comprimento máximo de 6,5 metros.
+
+Sem partes móveis, livre de manutenção ou peças de reposição por desgaste mecânico.
+
+Software de configuração e monitoramento básico fornecido com o equipamento.
+
+Tensão de operação de 9Vdc até 36Vdc.
+Consumo de 40mA quando ligado em 12Vdc.
+Atualização de dados 1Hz.
+Dimensões 180 x 180 x 145,8 mm.
+Peso menor que 0,5kg.
+
+Para uma melhor leitura de dados e aproveitamento do seu sensor KW-360 sugerimos utilizar o display multifuncional KMR-6 ONWA MARINE que além de integrar outras funções ainda gerencia e monitora todas as funções do sensor KW-360.
+
+
+
+#-----------------------------------------------------------------
+
+
