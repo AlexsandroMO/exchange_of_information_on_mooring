@@ -6,16 +6,22 @@ completo automatizado, ou ela quer apenas um sistema de controle de atracação 
 2) Como serão controlados os gatos dos Dolfins? Inversor? (Dolfim de a memsa coisa que gato? rsrs)
 
 3) Se for inversor, eles possuirão cominicação Modbus ou Devicnet, etc?
-(Isso impacta nos cartões que precisaremos prevê)
+(Isso impacta nos cartões que precisaremos prevê) - (Se tiver modbus, acabou a dor de cabeça).
 
 4) Se o controle for a fio, precisamos do diagrama unifilar deles pra saber como controla-lo. Precisaremos de especificar cabos com
 umas 5 vias mais ou menos. (3 pra comandao gira pra um lado/ gira pra outro/ liga desliga e mais 2 pra analógico, controle de frequência)
 
-5) Se o sistema de atracaão for 100% automatizado, pergunta se eles tem alguma objeção a esses sistema que são feitos pra
+5) Paineis fotovoltaicos, tem comunicaão (modbus/devicnete/alguma) outra? (Se tiver modbus, acabou a dor de cabeça).
+
+
+
+
+
+
+
+- Se o sistema de atracaão for 100% automatizado, pergunta se eles tem alguma objeção a esses sistema que são feitos pra
 controlar tudo? Alega que é muito melhor especificar um sistema e o cara vender o pacote fechado, que fica a responsabilidade dele toda
 lógica de funionamento. Sem contar que os caras tem grande experiência nisso. (é muito provável que as empresas que foram concorrer ofereçam
 essa solução, colocando nosso projeto todo no lixo. (Se optarem por a gente preve sistema independente de soluções prontas)
-
-Hoje é o que to lembrando...
-
+ (Acho que eles não querem isso tudo, seria bem mais caro e com certeza, paco fechado. Nãotem como ser diferente)
 
