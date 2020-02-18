@@ -1,6 +1,6 @@
 #Questionamentos...
 
-1) Como serão controlados os gatos dos Dolfins? Inversor? (Dolfim de a memsa coisa que gato? rsrs)
+1) Como serão controlados os gatos dos Dolfins? Inversor?
 
 2) Se for inversor, eles possuirão cominicação Modbus ou Devicnet, etc?
 (Isso impacta nos cartões que precisaremos prevê) - (Se tiver modbus, acabou a dor de cabeça).
@@ -11,8 +11,8 @@ umas 5 vias mais ou menos. (3 pra comandao gira pra um lado/ gira pra outro/ lig
 4) Paineis fotovoltaicos, tem comunicação (modbus/devicnete/alguma) outra? (Se tiver modbus, acabou a dor de cabeça).
 
 5) Tinha entendido que a comunicação do PLC de campo e o Sistema supervisório seria via rádio UHF/4G, não comunicação dos equipamentos
-de campo. Os Inversores e painéis fotovoltaicos támbém se comunicação via UHF ou os dados serão pegos via cabo, RS-485, por exemplo, até
-os PLCs, e do CLP pro supervisório que vai via UHF. (Confirma isso, não fala nada no MD de rede sem fio pra coletar dados de equipamentos).
+de campo. Os Inversores e painéis fotovoltaicos támbém tem comunicação via UHF ou os dados serão pegos via cabo, RS-485, por exemplo, até
+os PLCs, e do CLP pro supervisório que via UHF. (Confirma isso, não fala nada no MD de rede sem fio pra coletar dados de equipamentos).
 
 Trecho do MD = "A comunicação entre as unidades de aquisição de dados instaladas nos dolfins e o servidor da sala de controle deverá utilizar
 transmissão por rede sem fio UHF."
